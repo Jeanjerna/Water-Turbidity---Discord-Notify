@@ -1,0 +1,22 @@
+# PlatformIO build output and libraries
+.pio/
+
+# Secrets: never commit (the template secrets.example.h is the only exception)
+include/secrets*.h
+!include/secrets.example.h
+.env
+*.key
+
+# Editor-local files (only the recommended-extensions list is shared)
+.vscode/*
+!.vscode/extensions.json
+
+# Assistant / tool local files
+.claude/
+CLAUDE.md
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.bak
