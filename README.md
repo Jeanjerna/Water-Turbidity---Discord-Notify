@@ -122,3 +122,7 @@ src/test/                        โปรแกรมทดสอบฮาร�
 tests/monitor_tests.cpp          unit test ที่รันบนคอมพิวเตอร์
 certs/discord_roots.pem          root certificate สำหรับ TLS ของ Discord
 ```
+
+## หมายเหตุเกี่ยวกับเอกสาร
+
+README ฉบับนี้เขียนโดย Claude Sonnet 5.5 (Anthropic) โดยอ้างอิงจากโค้ดและผลการทดสอบในโปรเจกต์นี้
